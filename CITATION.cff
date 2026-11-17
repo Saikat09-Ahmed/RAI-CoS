@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below."
+title: "RAI-CoS: reference implementation"
+type: software
+license: MIT
+authors:
+  - family-names: Rashid
+    given-names: Md Tahmid
+  - family-names: Ahmed
+    given-names: Md Saikat
+    orcid: "https://orcid.org/0009-0002-4220-4741"
+  - family-names: Siddique
+    given-names: Md Jawad
+preferred-citation:
+  type: article
+  title: "RAI-CoS: Reliability-Calibrated Age-of-Information-Aware Collaborative Sensing for Resilient Multi-UAV Tracking over Intermittent Networks"
+  authors:
+    - family-names: Rashid
+      given-names: Md Tahmid
+    - family-names: Ahmed
+      given-names: Md Saikat
+      orcid: "https://orcid.org/0009-0002-4220-4741"
+    - family-names: Siddique
+      given-names: Md Jawad
+  journal: Computers
+  volume: 15
+  issue: 10
+  start: 711
+  year: 2026
+  publisher:
+    name: MDPI
+  doi: 10.3390/computers15100711
